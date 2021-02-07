@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/whySOLO/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/whySOLO/static/js/main.0b34a62d.chunk.js",
+    "main.js.map": "/whySOLO/static/js/main.0b34a62d.chunk.js.map",
+    "runtime-main.js": "/whySOLO/static/js/runtime-main.2b81e638.js",
+    "runtime-main.js.map": "/whySOLO/static/js/runtime-main.2b81e638.js.map",
+    "static/js/2.31719cf6.chunk.js": "/whySOLO/static/js/2.31719cf6.chunk.js",
+    "static/js/2.31719cf6.chunk.js.map": "/whySOLO/static/js/2.31719cf6.chunk.js.map",
+    "static/js/3.266a184e.chunk.js": "/whySOLO/static/js/3.266a184e.chunk.js",
+    "static/js/3.266a184e.chunk.js.map": "/whySOLO/static/js/3.266a184e.chunk.js.map",
+    "index.html": "/whySOLO/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/whySOLO/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.31719cf6.chunk.js.LICENSE.txt": "/whySOLO/static/js/2.31719cf6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/whySOLO/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b81e638.js",
+    "static/js/2.31719cf6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0b34a62d.chunk.js"
+  ]
+}
